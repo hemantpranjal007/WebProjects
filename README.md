@@ -14,7 +14,7 @@ ATS-style Resume Analyzer that evaluates resumes and provides feedback.
 - Instant Analysis Results
 🔗Live Demo: [Open Resume Analyzer](https://coffee-helen-75.tiiny.site)
 
-## 💰 Expense Tracker Pro
+## 💰 Expense Tracker
 ### Features
 - Income & Expense Tracking
 - Real-Time Balance Updates
@@ -25,4 +25,4 @@ ATS-style Resume Analyzer that evaluates resumes and provides feedback.
 - CSV Export
 - Interactive Charts
 - Local Storage Support
-🔗 Live Demo: [Expense Tracker Pro](https://orange-dulcinea-37.tiiny.site)
+🔗 Live Demo: [Expense Tracker](https://orange-dulcinea-37.tiiny.site)
