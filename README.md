@@ -12,7 +12,7 @@ ATS-style Resume Analyzer that evaluates resumes and provides feedback.
 - Candidate Comparison Dashboard
 - Interactive & Responsive UI
 - Instant Analysis Results
-🔗Live Demo: [Open Resume Analyzer](https://coffee-helen-75.tiiny.site)
+🔗Live Demo: [Resume Analyzer](https://coffee-helen-75.tiiny.site)
 
 ## Expense Tracker
 ### Features
