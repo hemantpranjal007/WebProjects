@@ -3,5 +3,5 @@ Collection of web development projects built using HTML, CSS, JavaScript and Pyt
 ## 🚀 Projects
 ## Resume Analyzer
 ATS-style Resume Analyzer that evaluates resumes and provides feedback.
-🔗Live Demo: [Open Resume Analyzer](https://codepen.io/Hemant-Pranjal/details/XJNpJOP)
+🔗Live Demo: [Open Resume Analyzer](https://coffee-helen-75.tiiny.site)
 
