@@ -1,6 +1,6 @@
 # WebProjects
 Collection of web development projects built using HTML, CSS, JavaScript and Python
-## 🚀 Projects
+## Projects
 ## Resume Analyzer
 ATS-style Resume Analyzer that evaluates resumes and provides feedback.
 ### Features
@@ -14,7 +14,7 @@ ATS-style Resume Analyzer that evaluates resumes and provides feedback.
 - Instant Analysis Results
 🔗Live Demo: [Open Resume Analyzer](https://coffee-helen-75.tiiny.site)
 
-## 💰 Expense Tracker
+## Expense Tracker
 ### Features
 - Income & Expense Tracking
 - Real-Time Balance Updates
