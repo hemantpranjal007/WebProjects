@@ -2,7 +2,7 @@
 
 Collection of web development projects built using HTML, CSS, JavaScript and Python.
 
-> 🌐 **Portfolio Website:**[View Portfolio](https://hemantportfolio.tiiny.site)
+> 🌐 **Portfolio Website:** [View Portfolio](https://hemantportfolio.tiiny.site)
 
 ## Projects
 ## Resume Analyzer
